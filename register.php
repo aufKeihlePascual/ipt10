@@ -18,7 +18,6 @@
             display: flex;
             width: 80%;
             max-width: 1000px;
-            /* margin: 50px auto; */
             box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
         }
         .left-side {
